@@ -58,5 +58,5 @@ otherday.setFullYear(year)
 console.log(`Your DOB is ${otherday}`);
 console.log(`Your are ${dif} Years ${difference} Month  ${differenc} Days ${currentHour}Hours ${currentMints} Mints ${currentSecond} Seconds old`);
 console.log(`Your age is ${perYear} Days`);
-var nextbirthday=dif/365
-console.log(`How many time left in next birthday: ${nextbirthday} Days`);
+var reamingday=difference*31 +differenc;
+console.log(`There are ${reamingday} Days Left in Year Next Birthday.`);

@@ -5,4 +5,4 @@
     var lastName = "Alam";
     var age=20;
 
-    alert("Hello "+ firstName +" "+ lastName + ", " + "You are "+ age +" Years old ");
+    alert("Hello "+ firstName +" "+ lastName + ", " + "You are "+ age +" Years old "); 
